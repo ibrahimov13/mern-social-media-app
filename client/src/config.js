@@ -1,0 +1,1 @@
+export const API_URL = "https://mernstack-social-media-app-server.vercel.app";
