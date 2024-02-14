@@ -16,6 +16,7 @@
 - Deployment: [Vercel Deployment](https://mernstack-social-media-app.vercel.app/)
 
 <h2>Technologies used:</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=react,materialui,redux,mongodb,express,nodejs,vercel)](https://skillicons.dev)
 <br />
 <br />
