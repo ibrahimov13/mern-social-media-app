@@ -12,8 +12,10 @@
   <li>Profile Pages: You can edit your information and review your posts on your personal profile page.</li>
 </ul>
 
-<h2>Technologies used:</h2>
+## Links
+- Deployment: [Vercel Deployment](https://mernstack-social-media-app.vercel.app/)
 
+<h2>Technologies used:</h2>
 [![My Skills](https://skillicons.dev/icons?i=react,materialui,redux,mongodb,express,nodejs,vercel)](https://skillicons.dev)
 <br />
 <br />
